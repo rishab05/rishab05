@@ -1,4 +1,9 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rishabh
+<br />
+
+Hi, I'm Rishabh, a passionate self-taught Full stack web developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+### Connect with Me:
 <a href="https://www.linkedin.com/in/rishab05/">
   <img align="left" alt="Rishabh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -8,11 +13,7 @@
 <a href="https://www.hackerrank.com/rishab05">
   <img align="left" alt="Rishabh's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"/>
 </a>
-<br />
-
-Hi, I'm Rishabh, a passionate self-taught Full stack web developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+</br>
 
   <img align="right" alt="GIF" src="https://github.com/rishab05/rishab05/blob/master/code.gif?raw=true" width="500" height="320" />
   
