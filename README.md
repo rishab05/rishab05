@@ -1,7 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rishabh
 <br />
+I am a passionate self-taught Full stack web developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+</br>
 
-Hi, I'm Rishabh, a passionate self-taught Full stack web developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+  <img align="right" alt="GIF" src="https://github.com/rishab05/rishab05/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 🔭 I’m currently working on : ASP.NET Core MVC, ASP.NET Core WebAPI and SQL Server
+- 🌱 I’m currently learning : ReactJs
+- ⚡ Fun fact: In Free time, I love watching movies and tv series. And I :heart: playing video game  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@rishab05](https://www.linkedin.com/in/rishab05/);
+- 📝 [Resume](https://drive.google.com/file/d/1bI8Ct8UV3P_i_8QWuRbY2s-Ks6WbAyUn/view?usp=sharing)
 
 ### Connect with Me:
 <a href="https://www.linkedin.com/in/rishab05/">
@@ -14,15 +23,6 @@ Hi, I'm Rishabh, a passionate self-taught Full stack web developer and a softwar
   <img align="left" alt="Rishabh's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"/>
 </a>
 </br>
-
-  <img align="right" alt="GIF" src="https://github.com/rishab05/rishab05/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 🔭 I’m currently working on : ASP.NET Core MVC, ASP.NET Core WebAPI and SQL Server
-- 🌱 I’m currently learning : ReactJs
-- ⚡ Fun fact: In Free time, I love watching movies and tv series. And I :heart: playing video game  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@rishab05](https://www.linkedin.com/in/rishab05/);
-- 📝 [Resume](https://drive.google.com/file/d/1bI8Ct8UV3P_i_8QWuRbY2s-Ks6WbAyUn/view?usp=sharing)
 
 **Languages and Tools:**  
 
