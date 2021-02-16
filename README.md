@@ -12,12 +12,11 @@ Hi, I'm Rishabh, a passionate self-taught Full stack web developer and a softwar
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on - ASP.NET Core MVC, ASP.NET Core WebAPI and SQL Server
-- 🌱 I’m currently learning - ReactJs
-- ⚡ Fun fact: In Free time, I love watching movies and tv series. And I :heart: playing video game
-
   <img align="right" alt="GIF" src="https://github.com/rishab05/rishab05/blob/master/code.gif?raw=true" width="500" height="320" />
   
+- 🔭 I’m currently working on : ASP.NET Core MVC, ASP.NET Core WebAPI and SQL Server
+- 🌱 I’m currently learning : ReactJs
+- ⚡ Fun fact: In Free time, I love watching movies and tv series. And I :heart: playing video game  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@rishab05](https://www.linkedin.com/in/rishab05/);
 - 📝 [Resume](https://drive.google.com/file/d/1bI8Ct8UV3P_i_8QWuRbY2s-Ks6WbAyUn/view?usp=sharing)
