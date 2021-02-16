@@ -1,9 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rishabh
 <br />
 I am a passionate self-taught Full stack web developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
 </br>
 
-  <img align="right" alt="GIF" src="https://github.com/rishab05/rishab05/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/rishab05/rishab05/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 🔭 I’m currently working on : ASP.NET Core MVC, ASP.NET Core WebAPI and SQL Server
 - 🌱 I’m currently learning : ReactJs
@@ -23,7 +24,6 @@ I am a passionate self-taught Full stack web developer and a software engineer f
   <img align="left" alt="Rishabh's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"/>
 </a>
 </br>
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
